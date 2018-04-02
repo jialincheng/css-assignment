@@ -4,7 +4,7 @@ body
 }
 /*display the navigation bar style*/
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -32,8 +32,9 @@ h3 {
 }
 /*display element style*/
 .element {
-  background-color: red;
+  background-color: green;
   height: 100px;
   margin 10px 0;
   width: 100%;
 }
+#bk{background-color: red}
